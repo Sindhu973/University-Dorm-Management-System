@@ -1,0 +1,21 @@
+rid,category,description,sid,status
+1,Electricity,Fan not working,4,in progress
+2,Cleaning,Washroom cleaning needed,7,in progress
+3,Plumbing,Shower dripping,2,in progress
+4,Janitor,Lost my key,3,in progress
+5,Pest control,Cupboards need pest control,7,in progress
+6,Electricity,Bulbs not working,4,in progress
+7,Cleaning,AC cleaning needed,1,in progress
+8,Cleaning,AC cleaning needed,2,in progress
+9,Janitor,Bedroom key lost,6,in progress
+10,Janitor,Keys lost,3,in progress
+11,Plumbing,Tap dripping,1,in progress
+12,Electricity,Fan switch not working,3,pending
+13,Janitor,Key bent,9,pending
+14,Pest control,Tables need pest control,10,pending
+15,Cleaning,Sink needs declogging,13,pending
+16,Plumbing,Pipes leaking,14,pending
+17,Plumbing,Flush not working,12,pending
+18,Cleaning,Bathroom cleaning needed,13,pending
+19,Cleaning,Dusting needed,11,pending
+20,Pest control,Roaches on doors,6,pending
